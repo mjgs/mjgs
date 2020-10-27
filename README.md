@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi I’m Mark, a developer originally  from the UK. I specialise in NodeJS web development and workflow automation. 
+Hi I’m Mark, a freelance developer originally  from the UK. I specialise in NodeJS web development and workflow automation. 
+
+Feel free to contact me anytime about any projects you have.
 
 Here are some highlights of my services and experience:
 
@@ -11,7 +13,11 @@ Here are some highlights of my services and experience:
 - Technologies: NodeJS, HTML/Javascript/CSS, Bash, AWS, Serverless, Stripe, Netlify, Heroku, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt
 - Experienced remote worker
 
+I publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
 
+You can find my contact details and all my other social media's on my [website](https://markjgsmith.com).
+
+📫 Best way to reach me is via [email](markjgsmith@gmail.com).
 
 <!--
 **mjgs/mjgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
