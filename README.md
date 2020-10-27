@@ -2,7 +2,7 @@
 
 I’m Mark, a freelance developer originally from the UK. I specialise in NodeJS/Javascript web development and workflow automation. 
 
-Feel free to contact me about any projects you have. 
+Feel free to [contact me](markjgsmith@gmail.com) about any projects you have. 
 
 Here are some highlights of my services and experience:
 
