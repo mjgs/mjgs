@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I’m Mark, a freelance developer originally  from the UK. I specialise in NodeJS web development and workflow automation. 
+I’m Mark, a freelance developer originally  from the UK. I specialise in NodeJS web development and workflow automation. 
 
 Feel free to contact me anytime about any projects you have.
 
