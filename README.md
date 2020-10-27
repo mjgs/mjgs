@@ -4,7 +4,7 @@ I’m Mark, a freelance developer originally from the UK. I specialise in NodeJS
 
 ⚡ I also publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
 
-Feel free to [contact me](markjgsmith@gmail.com) about any projects you have. 
+Feel free to [contact me](mailto:markjgsmith@gmail.com) about any projects you have. 
 
 Here are some highlights of my services and experience:
 
@@ -18,7 +18,7 @@ Here are some highlights of my services and experience:
 
 You can find my contact details and my other social medias on my [website](https://markjgsmith.com).
 
-📫 Best way to reach me is via [email](markjgsmith@gmail.com).
+📫 Best way to reach me is via [email](mailto:markjgsmith@gmail.com).
 
 <!--
 **mjgs/mjgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
