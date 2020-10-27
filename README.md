@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi I’m Mark, a developer originally  from the UK. I specialise in NodeJS web development and workflow automation. 
-
 I’m Mark, a freelance developer originally from the UK. I specialise in NodeJS/Javascript web development and workflow automation. 
 
 ⚡ I also publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
