@@ -4,6 +4,8 @@ I’m Mark, a freelance developer originally from the UK. I specialise in NodeJS
 
 ⚡ I also publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
 
+⚡ And a very experimental [podcast](https://podcasts.markjgsmith.com) 
+
 Feel free to [contact me](mailto:markjgsmith@gmail.com) about any projects you have. 
 
 Here are some highlights of my services and experience:
