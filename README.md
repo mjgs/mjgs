@@ -18,6 +18,8 @@ Here are some highlights of my services and experience:
 - Technologies: NodeJS, HTML/Javascript/CSS, Bash, AWS, Serverless, Stripe, Netlify, Heroku, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt
 - Experienced remote worker
 
+Check out my [LinkedIn](https://linkedin.com/in/markjgsmith) profile for more details.
+
 You can find my contact details and my other social medias on my [website](https://markjgsmith.com).
 
 📫 Best way to reach me is via [email](mailto:markjgsmith@gmail.com).
