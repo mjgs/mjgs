@@ -14,7 +14,7 @@ Here are some highlights of my services and experience:
 
 - 10+ years working in IT
 - From devops/system tools, to workflow automation integrations, to NodeJS web development
-- Experienced delivering large projects for Fortune 500 companies internationally, including BBC, BSkyB, ProseibenSat, Discovery Channel, Canal Plus, Chellomedia, Swiss Television and Fox Italy
+- Experienced delivering large projects for Fortune 500 companies internationally, including I have architected and / or implemented large projects for Fortune 500 companies internationally, including BSkyB, ProseibenSat, Canal Plus, Chellomedia, Swiss Television, Media City UK and Discovery Channel UK
 - I also like to work on smaller projects and with startups / solopreneurs, I am a believer in the indie web :)
 - Most recently I have been developing social media SaaS applications and statically generated (a.k.a Jamstack) websites, built using GitHub actions, deployed to Netlify
 - Experienced remote worker
