@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](https://blog.markjgsmith.com/about) originally from the UK. I specialise in NodeJS/Javascript web development and workflow automation. 
+I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](https://blog.markjgsmith.com/about) originally from the UK. I specialise in building websites, APIs, workflows & automations. 
 
 ⚡ I also publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
 
