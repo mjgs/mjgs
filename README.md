@@ -23,9 +23,12 @@ Technologies:
 
 NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
 
-Check out my [LinkedIn](https://linkedin.com/in/markjgsmith) profile for more details.
+More details:
 
-You can find my contact details and my other social medias on my [website](https://markjgsmith.com).
+- [About me](https://blog.markjgsmith.com/about)
+- [Portfolio](https://blog.markjgsmith.com/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/markjgsmith)
+- [Contacts](https://blog.markjgsmith.com/contacts)
 
 📫 Best way to reach me is via [email](mailto:markjgsmith@gmail.com).
 
