@@ -17,8 +17,11 @@ Here are some highlights of my services and experience:
 - Experienced delivering large projects for Fortune 500 companies internationally, including BBC, BSkyB, ProseibenSat, Discovery Channel, Canal Plus, Chellomedia, Swiss Television and Fox Italy
 - I also like to work on smaller projects and with startups / solopreneurs, I am a believer in the indie web :)
 - Most recently have been developing social media SaaS applications and statically generated (a.k.a Jamstack) websites, built using GitHub actions, deployed to Netlify
-- Technologies: NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
 - Experienced remote worker
+
+Technologies: 
+
+NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javascript/CSS, ES2015-2020, JQuery, Backbone, Bootstrap, AWS, Digital Ocean, Netlify, Heroku, Docker, Lambda, Serverless, Message Queues, Stripe, Mailgun, Linux, Postgres, MongoDB, Redis, Nginx, Letsencrypt, GitHub Actions
 
 Check out my [LinkedIn](https://linkedin.com/in/markjgsmith) profile for more details.
 
