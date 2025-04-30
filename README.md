@@ -2,7 +2,7 @@
 
 I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](https://markjgsmith.com/about) originally from the UK. I specialise in building websites, APIs, workflows & automations. 
 
-⚡ I also publish a [blog](https://markjgsmith.com/blog) and daily [linkblog](https://markjgsmith.com/links) where I post tech / javascript / developer links.
+⚡ I also publish a [blog](https://markjgsmith.com/everything) and daily [linkblog](https://markjgsmith.com/links) where I post tech / javascript / developer links.
 
 ⚡ And a [weekly newsletter](https://markjgsmith.substack.com) roundup of the best blog and linkblog posts.
 
