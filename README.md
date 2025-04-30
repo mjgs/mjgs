@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](https://blog.markjgsmith.com/about) originally from the UK. I specialise in building websites, APIs, workflows & automations. 
+I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](https://markjgsmith.com/about) originally from the UK. I specialise in building websites, APIs, workflows & automations. 
 
-⚡ I also publish a somewhat long running daily [linkblog](https://links.markjgsmith.com) where I post daily tech / javascript / developer links. It's close to 10 years now!
+⚡ I also publish a [blog](https://markjgsmith.com/blog) and daily [linkblog](https://markjgsmith.com/links) where I post tech / javascript / developer links.
 
-⚡ And a [weekly newsletter](https://markjgsmith.substack.com) roundup of the best linkblog posts
+⚡ And a [weekly newsletter](https://markjgsmith.substack.com) roundup of the best blog and linkblog posts.
 
-⚡ And a very experimental [podcast](https://podcasts.markjgsmith.com) 
+⚡ And a very experimental [podcast](https://markjgsmith.com/podcast).
 
 Feel free to [contact me](mailto:markjgsmith@gmail.com) about any projects you have. 
 
@@ -15,7 +15,7 @@ Here are some highlights of my services and experience:
 - 10+ years working in IT
 - From devops/system tools, to workflow automation integrations, to NodeJS web development
 - I have architected and / or implemented large projects for Fortune 500 companies internationally, including for BSkyB, ProseibenSat, Canal Plus, Chellomedia, Swiss Television, Media City UK and Discovery Channel UK
-- I also like to work on smaller projects and with startups / solopreneurs, I am a believer in the indie web :)
+- I also like to work on smaller projects and with startups / solopreneurs
 - Most recently I have been developing social media SaaS applications and statically generated (a.k.a Jamstack) websites, built using GitHub actions, deployed to Netlify
 - Experienced remote worker
 
@@ -25,10 +25,10 @@ NodeJS, Perl, Python, Bash, Git, Express, Eleventy, Passport, Mocha, HTML/Javasc
 
 More details:
 
-- [About me](https://blog.markjgsmith.com/about)
-- [Portfolio](https://blog.markjgsmith.com/portfolio)
+- [About me](https://markjgsmith.com/about)
+- [Portfolio](https://markjgsmith.com/portfolio)
 - [LinkedIn](https://www.linkedin.com/in/markjgsmith)
-- [Contacts](https://blog.markjgsmith.com/contacts)
+- [Contacts](https://markjgsmith.com/contacts)
 
 📫 Best way to reach me is via [email](mailto:markjgsmith@gmail.com).
 
