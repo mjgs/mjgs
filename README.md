@@ -4,8 +4,6 @@ I’m Mark, a [Freelance Web Developer, Consultant and Automation Engineer](http
 
 ⚡ I also publish a ✍️ [blog](https://markjgsmith.com) and 🔗 [linkblog](https://markjgsmith.com/links) where I post tech / javascript / developer links, a [newsletter](https://markjgsmith.substack.com), and a very experimental 🎧 [podcast](https://markjgsmith.com/podcast).
 
-Feel free to [contact me](mailto:markjgsmith@gmail.com) about any projects you have. 
-
 Here are some highlights of my services and experience:
 
 - 💼 10+ years working in IT.
